@@ -67,7 +67,7 @@ If you do not have and were not given an environment prior to the exercise, in t
 
 3.  Enter **Bellows College [Your Last Name]** for **Name**.
 
-4.  Select **Production** in the dropdown for **Type.**
+4.  Select **Trial** in the dropdown for **Type.**
 
 5.  Select your **Region**
 
